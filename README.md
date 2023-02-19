@@ -12,8 +12,11 @@
 					<li>venv\Scripts\activate</li>
 				</ol>
 			</li>
-c.	download django:
-i.	pip install django
+			<li>download django:
+				<ol>
+					<li>pip install django</li>
+				</ol>
+			</li>
 d.	download django rest framework
 i.	pip install djangorestframework
 e.	create the project:
