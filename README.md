@@ -20,7 +20,7 @@
 			<li>download django rest framework
 				<ol>
 					<li>pip install djangorestframework</li>
-				</lo>
+				</ol>
 			</li>
 			<li>create the project:
 				<ol>
