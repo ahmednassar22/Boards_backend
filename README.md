@@ -1,8 +1,8 @@
 # Boards_backend
 
 ## 1-	Inside shell
-### a.	Download environment
-#### i.	virtualenv venv
+###	 a.	Download environment
+#### 	i.	virtualenv venv
 ### b.	activate environment:
 #### i.	venv\Scripts\activate
 c.	download django:
