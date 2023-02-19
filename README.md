@@ -1,7 +1,9 @@
 # Render Bootstrap
-1-Inside shell
-  _Download environment
-   _virtualenv venv
+<ul>
+<li>1-Inside shell
+	<li>Download environment
+	<li>virtualenv venv</li>
+	</li>
 b.	activate environment:
 i.	venv\Scripts\activate
 c.	download django:
@@ -12,6 +14,7 @@ e.	create the project:
 i.	django-admin startproject discussion_doard .
 f.	create the app:
 i.	python.exe manage.py startapp boards
+</li>
 2-	inside settings file from discussion_board folder add inside INSTALLED_APPS list:
 a.	‘boards’,
 b.	‘rest_framework’,
@@ -59,3 +62,4 @@ i.	Path(‘’,include(‘boards.urls’))
 c.	
 11-	
 12-	
+</ul>
