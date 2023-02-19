@@ -17,13 +17,21 @@
 					<li>pip install django</li>
 				</ol>
 			</li>
-d.	download django rest framework
-i.	pip install djangorestframework
-e.	create the project:
-i.	django-admin startproject discussion_doard .
-f.	create the app:
-i.	python.exe manage.py startapp boards
-
+			<li>download django rest framework
+				<ol>
+					<li>pip install djangorestframework</li>
+					</lo>
+			</li>
+			<li>create the project:
+		<ol>
+			<li>django-admin startproject discussion_doard .</li>
+			</lo>
+	</li>
+<li>create the app:
+	<lo>
+		<li>python.exe manage.py startapp boards</li>
+		</lo>
+			</li>
 		</ol>
 	</li>
 </ol>
