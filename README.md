@@ -1,7 +1,7 @@
 # Boards_backend
 <ul>
-## <il>	Inside shell
-### <li>a.Download environment
+ <ol>## Inside shell
+	 <ol>### Download environment
 #### <li>i.virtualenv venv
 	</li></li>
 ### b.	activate environment:
@@ -59,5 +59,5 @@ ii.
 a.	From djang.urls import path,include
 b.	Inside urlpatterns add:
 i.	Path(‘’,include(‘boards.urls’))
-</il>
+</ol>
 </ul>
