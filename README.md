@@ -25,12 +25,12 @@
 			<li>create the project:
 				<ol>
 					<li>django-admin startproject discussion_doard .</li>
-				</lo>
+				</ol>
 			</li>
 <li>create the app:
-	<lo>
+	<ol>
 		<li>python.exe manage.py startapp boards</li>
-		</lo>
+		</ol>
 			</li>
 		</ol>
 	</li>
