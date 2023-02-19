@@ -1,7 +1,7 @@
 # Render Bootstrap
-## 1-Inside shell
-     _Download environment
-      _virtualenv venv
+1-Inside shell
+	_Download environment
+		_virtualenv venv
 b.	activate environment:
 i.	venv\Scripts\activate
 c.	download django:
