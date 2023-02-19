@@ -34,5 +34,11 @@
 			</li>
 		</ol>
 	</li>
+	<li>inside settings file from discussion_board folder add inside INSTALLED_APPS list:
+		<ol>
+			<li>‘boards’,</li>
+			<li>‘rest_framework’,<li>
+		</ol>
+	</li>
 </ol>
 	
