@@ -6,7 +6,7 @@
 				<ol>
 					<li>virtualenv venv</li>
 				</ol>
-			</li><
+			</li>
 		</ol>
 	</li>
 </ol>
