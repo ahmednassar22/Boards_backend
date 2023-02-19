@@ -1,6 +1,6 @@
 # Render Bootstrap
 ## 1-Inside shell
-     -### Download environment
+     ### -Download environment
 		#### -virtualenv venv
 b.	activate environment:
 i.	venv\Scripts\activate
