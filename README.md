@@ -20,13 +20,13 @@
 			<li>download django rest framework
 				<ol>
 					<li>pip install djangorestframework</li>
-					</lo>
+				</lo>
 			</li>
 			<li>create the project:
-		<ol>
-			<li>django-admin startproject discussion_doard .</li>
-			</lo>
-	</li>
+				<ol>
+					<li>django-admin startproject discussion_doard .</li>
+				</lo>
+			</li>
 <li>create the app:
 	<lo>
 		<li>python.exe manage.py startapp boards</li>
