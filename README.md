@@ -37,7 +37,16 @@
 	<li>inside settings file from discussion_board folder add inside INSTALLED_APPS list:
 		<ol>
 			<li>‘boards’,</li>
-			<li>‘rest_framework’,<li>
+			<li>‘rest_framework’,</li>
+		</ol>
+	</li>
+	<li>Create models:
+		<ol>
+<li>Inside models file from boards folder 
+	<ol>
+		<li>Copy models file from boards folder from old project and pest it</li>
+		</ol>
+			</li>
 		</ol>
 	</li>
 </ol>
