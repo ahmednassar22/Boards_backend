@@ -1,11 +1,9 @@
-# Boards_backend
-<ul>
- <ol>## Inside shell
-	 <ol>### Download environment
-#### <li>i.virtualenv venv
-	</li></ol>
-### b.	activate environment:
-#### i.	venv\Scripts\activate
+# Render Bootstrap
+## 1-Inside shell
+	### a.Download environment
+i.	virtualenv venv
+b.	activate environment:
+i.	venv\Scripts\activate
 c.	download django:
 i.	pip install django
 d.	download django rest framework
@@ -14,7 +12,6 @@ e.	create the project:
 i.	django-admin startproject discussion_doard .
 f.	create the app:
 i.	python.exe manage.py startapp boards
-	</ol>
 2-	inside settings file from discussion_board folder add inside INSTALLED_APPS list:
 a.	‘boards’,
 b.	‘rest_framework’,
@@ -59,4 +56,6 @@ ii.
 a.	From djang.urls import path,include
 b.	Inside urlpatterns add:
 i.	Path(‘’,include(‘boards.urls’))
-</ul>
+c.	
+11-	
+12-	
