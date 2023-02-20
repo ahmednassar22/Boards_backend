@@ -1,6 +1,6 @@
 # Render Bootstrap
 <ol>
-	<li>nside shell
+	<li>inside shell
 		<ol>
 			<li>Download environment
 				<ol>
